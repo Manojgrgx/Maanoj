@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/tutorial biweekly 6.props" />
+</Project>

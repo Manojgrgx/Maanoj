@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/tutorial biweekly 6.props" />
+</Project>

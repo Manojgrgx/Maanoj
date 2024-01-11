@@ -1,0 +1,31 @@
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/appsettings.Development.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/appsettings.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/tutorial biweekly 6.staticwebassets.runtime.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/tutorial biweekly 6
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/tutorial biweekly 6.deps.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/tutorial biweekly 6.runtimeconfig.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/tutorial biweekly 6.dll
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/bin/Debug/net7.0/tutorial biweekly 6.pdb
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.csproj.AssemblyReference.cache
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.AssemblyInfoInputs.cache
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.AssemblyInfo.cs
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.csproj.CoreCompileInputs.cache
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.MvcApplicationPartsAssemblyInfo.cache
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.RazorAssemblyInfo.cache
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.RazorAssemblyInfo.cs
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets/msbuild.tutorial biweekly 6.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets/msbuild.build.tutorial biweekly 6.props
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.tutorial biweekly 6.props
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.tutorial biweekly 6.props
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets.build.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/staticwebassets.development.json
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/scopedcss/bundle/tutorial biweekly 6.styles.css
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/scopedcss/projectbundle/tutorial biweekly 6.bundle.scp.css
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.dll
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/refint/tutorial biweekly 6.dll
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.pdb
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/tutorial biweekly 6.genruntimeconfig.cache
+/Users/kshitizgurung/Desktop/manoj/visual studio web design/tutorial biweekly 6/tutorial biweekly 6/obj/Debug/net7.0/ref/tutorial biweekly 6.dll
